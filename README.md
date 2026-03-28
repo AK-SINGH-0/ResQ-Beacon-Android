@@ -82,7 +82,7 @@ Unlike standard apps that send a static text, ResQ Beacon sends a **Contextual D
 ## 👨‍💻 Developer
 
 **Ankush Kumar Singh**
-* [Comming Soon LinkedIn Url ]
+* https://www.linkedin.com/in/ankush-kumar-singh-a685783a8
 * https://github.com/AK-SINGH-0
 
 ---
