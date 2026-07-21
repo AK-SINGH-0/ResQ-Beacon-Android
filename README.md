@@ -89,3 +89,5 @@ Unlike standard apps that send a static text, ResQ Beacon sends a **Contextual D
 ---
 
 *Disclaimer: This application is a safety tool. While rigorous testing has been conducted, the developer is not liable for hardware sensor failures in extreme conditions.*
+
+Any Use of The Code and documentation of this project without consent is subject to @Copyright
